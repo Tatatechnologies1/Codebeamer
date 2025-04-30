@@ -8,5 +8,6 @@ try (BufferedInputStream in = new BufferedInputStream(new URL(FILE_URL).openStre
 } catch (IOException e) {
     // handle exception
 }
+
 // new line added in github.
 #42671
